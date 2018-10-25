@@ -15,7 +15,11 @@ class ViewController: UIViewController {
         print("hello")
         print("hello2")
     }
-
+    @IBAction func hello(_ sender: UIButton)
+    {
+        print("hello")
+    }
+    
 
 }
 
